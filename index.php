@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Logan Tran</title>
+    <link rel="icon" href="https://cdn.shopify.com/s/files/1/1061/1924/products/Robot_Emoji_Icon_7070a254-26f7-4a54-8131-560e38e34c2e_large.png?v=1571606114">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Material Design Light -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.blue-indigo.min.css">
+    <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+    <!-- Font-Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Custom Styles -->
+    <link rel="stylesheet" href="resources/styles/styles.css">
+    <link rel="stylesheet" href="resources/styles/typer.css">
+  </head>
+  <body>
+    <header id="portfolio-body" class="mdl-layout__header mdl-layout__header--transparent">
+      <div id="portfolio-header">
+        <h1>Dhiazulfa MB</h1>
+          <div id="slogan">
+            <div class="word"><span class="myWord">Code</span>
+              <div class="cursor"></div>
+            </div>
+          </div>
+          <div>
+            <p>👁‍🗨YOGYAKARTA</p>
+          </div>
+      </div>
+    </header>
+    <footer id="connect" class="mdl-mini-footer">
+      <ul id="footer-links" class="mdl-mini-footer__link-list">
+        <li>
+          <a href="https://github.com/dhiazulfa">
+            <i class="fa fa-github fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.linkedin.com/in/dhiazulfa-maulana-bachtiar-51a2ab158/">
+            <i class="fa fa-linkedin fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+        <li>
+          <a href="https://instagram.com/dhiazulfa_">
+            <i class="fa fa-instagram fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+        <li>
+          <a href="mailto:dhiazulfamb@protonmail.com">
+            <i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+      </ul>
+    </footer>
+    <script src="resources/js/typer.js"></script>
+  </body>
+</html>
