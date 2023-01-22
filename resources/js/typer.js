@@ -1,5 +1,5 @@
 var typer = {
-    words: ['Code', 'Photography', 'Art'],
+    words: ['Code', 'Photograph', 'Software Developer'],
     wordIndex: 0,
     speed: 150,
     nextWordWait: 1000,
