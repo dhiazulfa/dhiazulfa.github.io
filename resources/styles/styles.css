@@ -115,6 +115,7 @@ footer#connect {
   color: #ffffff;
   transition: color 0.3s ease, transform 0.3s ease;
   display: inline-block;
+  font-size: 2.5rem;
 }
 
 #footer-links li a:hover {
