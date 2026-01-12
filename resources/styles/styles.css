@@ -27,7 +27,7 @@ h1 {
   font-size: 1.8rem;
 }
 p, div {
-  font-size: 0.2rem;
+  font-size: 1.2rem;
   font-weight: 900;
 }
 
@@ -55,6 +55,15 @@ p, div {
   letter-spacing: 1.6px;
   text-transform: uppercase;
   font-size: 1.4rem;
+}
+
+#location {
+  color: white;
+  font-size: 1.2rem;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin-top: 10px;
+  font-weight: 600;
 }
 
 h1 {
